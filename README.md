@@ -1,6 +1,6 @@
 `Playable on this URL:`https://lgm.fri.uni-lj.si/ziga/rg/2023-2024/skupina20/
 
-The game was made with pure vanilla JS in 3 months with no knowledege of WebGL and no knowledege of game dev.
+The game was made with pure vanilla JS in 3 months with no knowledege of WebGL or game dev.
 Since the time limit was 3 months there is a bunch of stuff that's missing such as character animations, NPCs, multiplayer, proficient loading time,...
 
 For movement it uses an OcTree and AStar algorithm, this allows faster lookups of which polygon was clicked or which monster was pressed.
